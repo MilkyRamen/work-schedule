@@ -11,3 +11,7 @@ https://stackoverflow.com/questions/18536726/javascript-to-display-the-current-d
 
 ## Liscense
 MIT Liscense
+
+## For Review
+https://milkyramen.github.io/work-schedule/
+
