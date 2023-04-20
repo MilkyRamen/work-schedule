@@ -15,3 +15,4 @@ MIT Liscense
 ## For Review
 https://milkyramen.github.io/work-schedule/
 
+![deployed work schedule](https://user-images.githubusercontent.com/127574535/233489775-baf11337-fee0-4f5d-bd79-ffe687da48bc.PNG)
